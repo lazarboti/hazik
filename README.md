@@ -1,0 +1,1 @@
+Ebben a játékban a mi ki karrakterünkel kell minnél messzebbre jutni a pályán ahol az utunkat sziklák övezik .A játék célja hogy minnél több pontot érjünk el ezzel a barátainkkal vagy akár az online térben tudunk versenyezni.
