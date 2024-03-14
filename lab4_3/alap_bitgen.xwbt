@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\student\Desktop\lazarboti\lab4_3\alap.ncd
+OUTFILE=C:\Users\student\Desktop\lazarboti\lab4_3\alap.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\student\Desktop\lazarboti\lab4_3
+LICENSE=WebPack
+USER_INFO=206272055_206273141_0_453
