@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main() {
+    int db;
+    printf("Hány db random számot kérsz?\n");
+    scanf("%d", &db);
+
+    int also_hatar, felso_hatar;
+    printf("Alsó határ: ");
+    scanf("%d", &also_hatar);
+    printf("Felső határ (zárt intervallum): ");
+    scanf("%d", &felso_hatar);
+
+    // Ellenőrzés, hogy a megadott intervallum megfelelő-e
+    if (also_hatar >= felso_hatar) {
+        printf("Hiba: Az alsó határ nem lehet nagyobb vagy egyenlő a felső határnál!\n");
+        return 1;
+    }
+
+    // Véletlenszámok generálása és kiíratása
+    printf("\nA generált számok: ");
+    srand(time(NULL)); // Seed az aktuális időből
+    for (int i = 0; i < db; i++) {
+        int szam = rand() % (felso_hatar - also_hatar + 1) + also_hatar;
+        printf("%d ", szam);
+    }
+    printf("\n");
+
+    return 0;
+}
