@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char word[100]; // Max. 100 karakteres szó
+    int longest_length = 0;
+    
+    printf("Adj meg szavakat '*' végjelig:\n");
+    int word_count = 0;
+    while (1) {
+        printf("Szó: ");
+        fgets(word, sizeof(word), stdin); // Szó beolvasása
+        
+        // Ellenőrizzük, hogy az utolsó karakter '*'-e, ha igen, kilépünk a ciklusból
+        if (word[strlen(word) - 2] == '*') {
+            break;
+        }
+        
+        word_count++;
+        
+        // Ellenőrizzük a szó hosszát és frissítjük a leghosszabb szó hosszát
+        int length = strlen(word) - 1; // Az fgets beolvassa a '\n' karaktert is, ezért csökkentenünk kell a hosszt
+        if (length > longest_length) {
+            longest_length = length;
+        }
+    }
+    
+    printf("%d db szót adtál meg. A leghosszabb szó %d karakterből áll.\n", word_count, longest_length);
+    
+    return 0;
+}
