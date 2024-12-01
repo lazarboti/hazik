@@ -1,0 +1,7 @@
+J:\11G1\Programozás\41_DiakokLINQ\41_DiakokLINQ\bin\Debug\41_DiakokLINQ.exe.config
+J:\11G1\Programozás\41_DiakokLINQ\41_DiakokLINQ\bin\Debug\41_DiakokLINQ.exe
+J:\11G1\Programozás\41_DiakokLINQ\41_DiakokLINQ\bin\Debug\41_DiakokLINQ.pdb
+J:\11G1\Programozás\41_DiakokLINQ\41_DiakokLINQ\obj\Debug\41_DiakokLINQ.csprojAssemblyReference.cache
+J:\11G1\Programozás\41_DiakokLINQ\41_DiakokLINQ\obj\Debug\41_DiakokLINQ.csproj.CoreCompileInputs.cache
+J:\11G1\Programozás\41_DiakokLINQ\41_DiakokLINQ\obj\Debug\41_DiakokLINQ.exe
+J:\11G1\Programozás\41_DiakokLINQ\41_DiakokLINQ\obj\Debug\41_DiakokLINQ.pdb

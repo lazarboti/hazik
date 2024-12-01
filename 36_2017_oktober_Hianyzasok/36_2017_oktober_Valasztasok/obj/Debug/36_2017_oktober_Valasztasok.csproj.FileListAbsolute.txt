@@ -1,0 +1,15 @@
+j:\11G1\Programozás\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\bin\Debug\36_2017_oktober_Valasztasok.exe.config
+j:\11G1\Programozás\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\bin\Debug\36_2017_oktober_Valasztasok.exe
+j:\11G1\Programozás\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\bin\Debug\36_2017_oktober_Valasztasok.pdb
+j:\11G1\Programozás\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\obj\Debug\36_2017_oktober_Valasztasok.csprojAssemblyReference.cache
+j:\11G1\Programozás\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\obj\Debug\36_2017_oktober_Valasztasok.csproj.CoreCompileInputs.cache
+j:\11G1\Programozás\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\obj\Debug\36_2017_oktober_Valasztasok.exe
+j:\11G1\Programozás\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\obj\Debug\36_2017_oktober_Valasztasok.pdb
+C:\Users\lazar\Downloads\Órai feladatok\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\bin\Debug\36_2017_oktober_Valasztasok.exe.config
+C:\Users\lazar\Downloads\Órai feladatok\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\bin\Debug\36_2017_oktober_Valasztasok.exe
+C:\Users\lazar\Downloads\Órai feladatok\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\bin\Debug\36_2017_oktober_Valasztasok.pdb
+C:\Users\lazar\Downloads\Órai feladatok\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\obj\Debug\36_2017_oktober_Valasztasok.csproj.AssemblyReference.cache
+C:\Users\lazar\Downloads\Órai feladatok\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\obj\Debug\36_2017_oktober_Valasztasok.csproj.SuggestedBindingRedirects.cache
+C:\Users\lazar\Downloads\Órai feladatok\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\obj\Debug\36_2017_oktober_Valasztasok.csproj.CoreCompileInputs.cache
+C:\Users\lazar\Downloads\Órai feladatok\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\obj\Debug\36_2017_oktober_Valasztasok.exe
+C:\Users\lazar\Downloads\Órai feladatok\36_2017_oktober_Hianyzasok\36_2017_oktober_Valasztasok\obj\Debug\36_2017_oktober_Valasztasok.pdb

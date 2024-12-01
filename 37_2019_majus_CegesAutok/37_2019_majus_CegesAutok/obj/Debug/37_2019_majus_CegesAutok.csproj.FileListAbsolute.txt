@@ -1,0 +1,7 @@
+J:\11G1\Programozás\37_2019_majus_CegesAutok\37_2019_majus_CegesAutok\bin\Debug\37_2019_majus_CegesAutok.exe.config
+J:\11G1\Programozás\37_2019_majus_CegesAutok\37_2019_majus_CegesAutok\bin\Debug\37_2019_majus_CegesAutok.exe
+J:\11G1\Programozás\37_2019_majus_CegesAutok\37_2019_majus_CegesAutok\bin\Debug\37_2019_majus_CegesAutok.pdb
+J:\11G1\Programozás\37_2019_majus_CegesAutok\37_2019_majus_CegesAutok\obj\Debug\37_2019_majus_CegesAutok.csprojAssemblyReference.cache
+J:\11G1\Programozás\37_2019_majus_CegesAutok\37_2019_majus_CegesAutok\obj\Debug\37_2019_majus_CegesAutok.csproj.CoreCompileInputs.cache
+J:\11G1\Programozás\37_2019_majus_CegesAutok\37_2019_majus_CegesAutok\obj\Debug\37_2019_majus_CegesAutok.exe
+J:\11G1\Programozás\37_2019_majus_CegesAutok\37_2019_majus_CegesAutok\obj\Debug\37_2019_majus_CegesAutok.pdb

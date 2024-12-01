@@ -1,0 +1,7 @@
+J:\11G1\Programozás\40_DolgozatLego\40_DolgozatLego\bin\Debug\40_DolgozatLego.exe.config
+J:\11G1\Programozás\40_DolgozatLego\40_DolgozatLego\bin\Debug\40_DolgozatLego.exe
+J:\11G1\Programozás\40_DolgozatLego\40_DolgozatLego\bin\Debug\40_DolgozatLego.pdb
+J:\11G1\Programozás\40_DolgozatLego\40_DolgozatLego\obj\Debug\40_DolgozatLego.csprojAssemblyReference.cache
+J:\11G1\Programozás\40_DolgozatLego\40_DolgozatLego\obj\Debug\40_DolgozatLego.csproj.CoreCompileInputs.cache
+J:\11G1\Programozás\40_DolgozatLego\40_DolgozatLego\obj\Debug\40_DolgozatLego.exe
+J:\11G1\Programozás\40_DolgozatLego\40_DolgozatLego\obj\Debug\40_DolgozatLego.pdb
