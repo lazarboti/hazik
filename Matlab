@@ -1,0 +1,60 @@
+% Mintavételezési frekvencia
+fs = 1000; % Hz
+t = 0:1/fs:1-1/fs; % Idővektor
+
+% 1. Két szinuszhullám definiálása
+f1 = 10; % Frekvencia 1 (Hz)
+f2 = 40; % Frekvencia 2 (Hz)
+x = sin(2*pi*f1*t) + sin(2*pi*f2*t); % Kompozit jel
+
+% 2. Fourier-transzformált számítása és ábrázolása
+X = fft(x); % Fourier-transzformált
+n = length(X);
+frequencies = (0:n-1)*(fs/n); % Frekvenciatengely
+magnitude = abs(X/n); % Normalizált amplitúdó
+
+figure;
+subplot(3,1,1);
+plot(t, x);
+title('Eredeti jel');
+xlabel('Idő (s)');
+ylabel('Amplitúdó');
+
+subplot(3,1,2);
+plot(frequencies(1:n/2), magnitude(1:n/2));
+title('Fourier-spektrum');
+xlabel('Frekvencia (Hz)');
+ylabel('Amplitúdó');
+
+% 3. Zaj hozzáadása
+noise = 0.5 * randn(size(t)); % Gauss-zaj
+x_noisy = x + noise; % Jel zajjal
+
+X_noisy = fft(x_noisy); % Fourier-transzformált zajos jel
+magnitude_noisy = abs(X_noisy/n);
+
+subplot(3,1,3);
+plot(frequencies(1:n/2), magnitude_noisy(1:n/2));
+title('Fourier-spektrum zajos jelnél');
+xlabel('Frekvencia (Hz)');
+ylabel('Amplitúdó');
+
+% 4. Aluláteresztő szűrő alkalmazása
+cutoff_freq = 20; % Határfrekvencia (Hz)
+H = frequencies <= cutoff_freq; % Szűrő
+X_filtered = X_noisy .* H; % Szűrés frekvenciatartományban
+
+x_filtered = ifft(X_filtered); % Inverz Fourier-transzformált (időtartományba)
+
+figure;
+subplot(2,1,1);
+plot(t, x_noisy);
+title('Eredeti zajos jel');
+xlabel('Idő (s)');
+ylabel('Amplitúdó');
+
+subplot(2,1,2);
+plot(t, real(x_filtered));
+title('Szűrt jel');
+xlabel('Idő (s)');
+ylabel('Amplitúdó');
